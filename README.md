@@ -1,4 +1,4 @@
-# ashion-Website 
+# Ashion-Website 
 # Getting Started
 A Fashion frontend E-commerce website using JS, css and HTML
 
